@@ -1,0 +1,436 @@
+ApplicantID,Gender,Married,Dependents,Education,SelfEmployed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+A001,Male,Yes,0,Graduate,No,4583,0,128,360,1,Urban,Approved
+A002,Female,No,1,Not Graduate,Yes,3000,1500, 66 ,360,0,Rural,Rejected
+A003,Male,Yes,0,Graduate,No,2583,2358,120,360,1,Semiurban,Approved
+A004,Male,Yes,2,Not Graduate,No,6000,0,141,360, ,Urban,Approved
+A005,Female,Yes, ,Graduate,No,5417,4196, 267 ,360,1,Urban,Approved
+A006,Male,No,0,Not Graduate,Yes,2333,1516,95,360,1,Rural,Rejected
+A007,Male,Yes,3+,Graduate,No,3036,2504,158,360,0,Semiurban,Rejected
+A008,Female,No,0,Graduate,No,4006,0,168,360,1,Urban,Approved
+A009,Male,Yes,1,Graduate,Yes,12841,10968,349,360,1,Semiurban,Approved
+A010,Male,Yes,2,Not Graduate,No,3200,700,70,360,1,Rural,Approved
+A011,Female,Yes,0,Graduate,No,2500, ,100,360,0,Urban,Rejected
+A012,Male,No,0,Graduate,No,3073,8106,200,360,1,Semiurban,Approved
+A013,Male,Yes, ,Not Graduate,No,1853,2840,114,360,1,Rural,Rejected
+A014,Female,Yes,0,Graduate,Yes,4400,0,120,360,1,Urban,Approved
+A015,Male,Yes,1,Graduate,No,7660,0,104,360,0,Semiurban,Rejected
+A016,Male,No,0,Not Graduate,No,2600,3500,115, ,1,Rural,Approved
+A017,Female,Yes,2,Graduate,No,2799,2253,122,360,1,Urban,Approved
+A018,Male,Yes,0,Graduate, ,4226,1040,110,360,1,Semiurban,Approved
+A019,Male,Yes,1,Not Graduate,No,1442,0,35,360,1,Rural,Rejected
+A020,Female,No,0,Graduate,No,3750,0,120,360,1,Urban,Approved
+A021,Male,Yes,3+,Graduate,Yes,3500,2925,150,360, ,Semiurban,Rejected
+A022,Male,No,0,Graduate,No,3100,1400,113,360,1,Urban,Approved
+A023,Female,Yes,1,Not Graduate,No,2253,2033, 90 ,360,0,Rural,Rejected
+A024,Male,Yes,0,Graduate,No,4416,0,130,360,1,Semiurban,Approved
+A025,Male,Yes,2,Graduate,Yes,10750,0,312,360,1,Urban,Approved
+A026,Female,No,0,Not Graduate,No,2100, , ,180,0,Rural,Rejected
+A027,Male,Yes, ,Graduate,No,3887,2669,162,360,1,Semiurban,Approved
+A028,Female,Yes,1,Graduate,No,4600,0,140,360,1,Urban,Approved
+A029,Male,No,0,Not Graduate,Yes,2500,1850,96,360,1,Rural,Rejected
+A030,Male,Yes,3+,Graduate,No,5667,2667,180,360,1,Semiurban,Approved
+A031,Female,Yes,0,Graduate,No,3200,0,120,360,0,Urban,Rejected
+A032,Male,Yes,1,Graduate, ,4500,1500,135,360,1,Rural,Approved
+A033,Male,No,0,Not Graduate,No,2400, ,100,360,1,Semiurban,Approved
+A034,Female,Yes,2,Graduate,No,3800,0,110,360,1,Urban,Approved
+A035,Male,Yes,0,Graduate,No,5000,0,150, ,1,Semiurban,Approved
+A036,Male,Yes,,Not Graduate,No, 7970 ,0,254,,,Semiurban,Approved
+A037,Female,Yes,2,Not Graduate,No, 6876 ,1305,160,,,Semiurban,Approved
+A038,Female,Yes,0,Not Graduate,, 5564 ,0,270,180,,Semiurban,Rejected
+A039,Female,Yes,2,Graduate,, 11734 ,0,315,240,1,Rural,Approved
+A040,Male,No,2,Graduate,, 10481 ,6733,187,300,0,Urban,Approved
+A041,Male,No,0,Graduate,No, 14848 ,0,248,240,,Semiurban,Rejected
+A042,Male,Yes,,Graduate,, 7178 ,6335,36,240,0,Rural,Rejected
+A043,Male,No,,Not Graduate,No, 11447 ,5963,266,360,0,Rural,Approved
+A044,Male,Yes,0,Not Graduate,, 12618 ,0,37,360,,Urban,Approved
+A045,Male,No,3+,Graduate,, 3794 ,2209,329,180,,Urban,Approved
+A046,Male,Yes,1,Graduate,Yes, 5782 ,0,205,360,1,Rural,Approved
+A047,Female,Yes,3+,Not Graduate,No, 9316 ,,115,360,,Semiurban,Approved
+A048,Female,Yes,2,Graduate,Yes, 9168 ,555,94,180,0,Urban,Approved
+A049,Male,No,0,Not Graduate,No, 13329 ,3286,100,360,0,Urban,Rejected
+A050,Male,Yes,,Graduate,, 12596 ,3908,76,240,1,Rural,Approved
+A051,Male,Yes,0,Not Graduate,No, 8532 ,0,43,240,,Urban,Approved
+A052,Male,Yes,3+,Not Graduate,Yes, 2285 ,6981,236,360,,Rural,Approved
+A053,Male,No,,Graduate,No, 6170 ,947,242,,1,Rural,Approved
+A054,Male,No,,Graduate,, 12492 ,2518,95,,1,Urban,Rejected
+A055,Female,Yes,0,Not Graduate,Yes, 12094 ,537,398,,0,Rural,Rejected
+A056,Female,Yes,,Graduate,No, 2584 ,6366,301,180,1,Urban,Approved
+A057,Male,Yes,,Graduate,, 14021 ,0,210,180,1,Semiurban,Rejected
+A058,Male,Yes,,Graduate,Yes, 14587 ,3989,79,,,Urban,Rejected
+A059,Female,No,0,Graduate,No, 6001 ,3894,82,180,,Urban,Approved
+A060,Male,Yes,2,Graduate,No, 14750 ,5404,251,360,0,Urban,Rejected
+A061,Female,Yes,0,Graduate,Yes, 1525 ,0,350,240,0,Semiurban,Approved
+A062,Female,No,2,Graduate,No, 1741 ,3397,115,,,Urban,Approved
+A063,Male,Yes,2,Graduate,Yes, 4286 ,0,62,180,1,Semiurban,Approved
+A064,Female,Yes,,Graduate,Yes, 14301 ,6574,239,180,0,Rural,Rejected
+A065,Male,No,0,Graduate,No, 13648 ,3908,169,,,Rural,Rejected
+A066,Male,Yes,0,Not Graduate,Yes, 8996 ,0,355,300,0,Urban,Approved
+A067,Male,Yes,2,Graduate,No, 5251 ,0,154,300,,Semiurban,Approved
+A068,Female,Yes,2,Not Graduate,, 9866 ,0,156,,1,Urban,Rejected
+A069,Female,Yes,2,Not Graduate,No, 13833 ,0,358,300,,Urban,Approved
+A070,Male,Yes,3+,Not Graduate,No, 5639 ,2242,320,,,Urban,Approved
+A071,Male,No,0,Graduate,No, 5628 ,0,139,180,0,Semiurban,Approved
+A072,Male,Yes,,Not Graduate,, 8741 ,2754,105,,0,Semiurban,Rejected
+A073,Male,Yes,1,Graduate,No, 1567 ,5808,182,300,0,Semiurban,Approved
+A074,Female,No,1,Not Graduate,, 11162 ,0,83,360,0,Urban,Rejected
+A075,Female,Yes,2,Graduate,Yes, 2260 ,5357,371,240,0,Urban,Approved
+A076,Male,Yes,1,Graduate,, 11188 ,3023,268,300,1,Rural,Rejected
+A077,Male,No,,Graduate,, 8147 ,7708,280,240,0,Rural,Approved
+A078,Male,No,1,Not Graduate,, 3080 ,185,100,180,,Semiurban,Rejected
+A079,Female,No,1,Not Graduate,Yes, 13882 ,44,344,,1,Semiurban,Approved
+A080,Female,No,3+,Not Graduate,No, 13766 ,0,349,240,1,Urban,Approved
+A081,Female,Yes,0,Graduate,No, 2440 ,2097,302,,,Semiurban,Rejected
+A082,Female,No,0,Graduate,, 4091 ,0,392,,,Urban,Rejected
+A083,Male,No,0,Not Graduate,, 7310 ,1980,70,,0,Urban,Approved
+A084,Female,No,3+,Graduate,Yes, 2357 ,0,230,180,0,Urban,Approved
+A085,Male,Yes,1,Graduate,, 12295 ,1927,162,180,1,Rural,Rejected
+A086,Male,Yes,1,Graduate,Yes, 4296 ,0,84,300,,Rural,Approved
+A087,Male,Yes,1,Not Graduate,, 12231 ,0,105,,,Rural,Approved
+A088,Male,No,1,Not Graduate,No, 9037 ,1330,242,,,Rural,Approved
+A089,Female,No,1,Graduate,, 1507 ,0,312,180,,Semiurban,Rejected
+A090,Male,Yes,,Not Graduate,Yes, 4651 ,0,65,360,,Urban,Approved
+A091,Female,Yes,,Not Graduate,No, 3721 ,3711,393,300,0,Rural,Approved
+A092,Male,No,1,Not Graduate,, 11911 ,0,142,,1,Semiurban,Rejected
+A093,Male,Yes,2,Graduate,Yes, 7673 ,3658,59,180,,Rural,Rejected
+A094,Female,Yes,0,Not Graduate,No, 3080 ,794,194,,,Semiurban,Approved
+A095,Female,Yes,,Graduate,Yes, 10401 ,6216,351,300,1,Urban,Approved
+A096,Female,No,2,Graduate,Yes, 6975 ,0,345,300,,Urban,Rejected
+A097,Female,No,3+,Not Graduate,No, 5686 ,91,215,360,1,Rural,Rejected
+A098,Female,Yes,1,Graduate,Yes, 10982 ,0,39,300,0,Semiurban,Approved
+A099,Female,Yes,,Not Graduate,Yes, 5814 ,,301,360,1,Rural,Approved
+A100,Male,No,1,Graduate,No, 6692 ,0,58,180,,Urban,Rejected
+A101,Female,No,,Not Graduate,Yes, 2988 ,1942,79,180,,Rural,Rejected
+A102,Male,No,0,Not Graduate,Yes, 4233 ,7368,197,,,Rural,Rejected
+A103,Male,Yes,,Graduate,, 8734 ,4076,236,240,,Rural,Approved
+A104,Female,Yes,,Not Graduate,, 13324 ,65,193,,,Semiurban,Approved
+A105,Male,Yes,3+,Not Graduate,No, 4829 ,73,51,360,0,Semiurban,Rejected
+A106,Male,Yes,,Not Graduate,Yes, 14594 ,0,190,240,,Semiurban,Approved
+A107,Female,No,1,Graduate,Yes, 3243 ,5922,47,240,,Rural,Approved
+A108,Female,Yes,,Graduate,, 12988 ,0,115,240,0,Rural,Approved
+A109,Male,Yes,0,Graduate,No, 12107 ,0,46,300,0,Semiurban,Rejected
+A110,Female,Yes,2,Graduate,, 13181 ,6032,54,,,Urban,Rejected
+A111,Male,No,2,Graduate,, 2598 ,5412,167,,1,Semiurban,Approved
+A112,Male,No,2,Not Graduate,No, 9193 ,,119,240,,Urban,Approved
+A113,Female,No,,Graduate,No, 4108 ,0,206,240,,Urban,Rejected
+A114,Female,No,3+,Graduate,, 9820 ,1998,85,180,0,Urban,Approved
+A115,Female,No,2,Not Graduate,No, 1902 ,1595,63,,,Semiurban,Rejected
+A116,Female,No,,Not Graduate,Yes, 7853 ,644,339,180,0,Rural,Rejected
+A117,Female,Yes,2,Graduate,No, 1906 ,0,249,240,,Semiurban,Approved
+A118,Female,No,3+,Not Graduate,Yes, 3258 ,1867,127,,,Semiurban,Rejected
+A119,Male,No,2,Not Graduate,, 13187 ,0,189,180,1,Semiurban,Rejected
+A120,Male,Yes,1,Graduate,No, 12735 ,6588,79,300,0,Semiurban,Rejected
+A121,Male,No,,Graduate,No, 5192 ,4728,362,,0,Urban,Approved
+A122,Female,No,0,Graduate,, 12145 ,,284,,,Semiurban,Approved
+A123,Female,Yes,0,Graduate,, 12025 ,204,159,300,0,Urban,Approved
+A124,Female,No,0,Graduate,No, 1759 ,0,294,,1,Rural,Rejected
+A125,Male,Yes,,Graduate,No, 10402 ,445,379,,0,Rural,Approved
+A126,Male,Yes,2,Graduate,No, 10288 ,5918,253,180,0,Rural,Approved
+A127,Male,No,0,Graduate,Yes, 5146 ,6386,289,360,1,Semiurban,Approved
+A128,Male,No,0,Not Graduate,, 11228 ,2715,47,300,,Urban,Approved
+A129,Female,No,,Not Graduate,, 5404 ,0,318,,0,Urban,Rejected
+A130,Male,No,1,Graduate,No, 4362 ,0,35,360,0,Semiurban,Approved
+A131,Female,No,,Graduate,No, 14865 ,0,356,,,Semiurban,Approved
+A132,Male,Yes,1,Graduate,Yes, 8899 ,1672,171,,0,Urban,Rejected
+A133,Female,Yes,0,Graduate,Yes, 9256 ,3230,85,360,1,Semiurban,Rejected
+A134,Male,Yes,0,Not Graduate,, 14797 ,,57,,1,Rural,Rejected
+A135,Male,No,0,Not Graduate,, 10880 ,0,82,240,1,Semiurban,Rejected
+A136,Male,No,0,Graduate,Yes, 10257 ,0,362,360,0,Rural,Approved
+A137,Male,Yes,,Graduate,No, 6643 ,0,387,180,1,Semiurban,Rejected
+A138,Female,Yes,1,Graduate,, 3384 ,4492,72,300,0,Semiurban,Rejected
+A139,Female,No,0,Not Graduate,No, 9052 ,0,185,180,1,Urban,Rejected
+A140,Female,No,2,Graduate,No, 7681 ,275,215,240,1,Urban,Approved
+A141,Male,Yes,1,Not Graduate,, 11451 ,0,269,360,,Urban,Approved
+A142,Male,No,2,Not Graduate,Yes, 3302 ,,35,240,1,Semiurban,Rejected
+A143,Female,Yes,0,Graduate,, 3550 ,6964,382,180,,Urban,Rejected
+A144,Male,Yes,2,Graduate,No, 7838 ,7960,53,360,1,Semiurban,Rejected
+A145,Female,No,2,Graduate,, 5757 ,4716,169,360,0,Rural,Rejected
+A146,Male,Yes,2,Not Graduate,Yes, 11660 ,0,44,,1,Semiurban,Rejected
+A147,Male,Yes,0,Not Graduate,Yes, 13885 ,,141,180,,Rural,Approved
+A148,Female,Yes,0,Not Graduate,Yes, 14452 ,0,335,180,1,Rural,Rejected
+A149,Male,Yes,,Not Graduate,Yes, 4298 ,0,152,240,0,Rural,Approved
+A150,Male,No,3+,Not Graduate,Yes, 12078 ,0,37,,,Rural,Rejected
+A151,Female,Yes,0,Graduate,, 2153 ,6047,173,180,,Urban,Approved
+A152,Female,Yes,0,Not Graduate,, 4679 ,0,176,,0,Semiurban,Rejected
+A153,Female,Yes,,Graduate,, 7646 ,1666,95,,0,Rural,Approved
+A154,Female,No,,Not Graduate,No, 10521 ,3190,210,,,Semiurban,Rejected
+A155,Female,No,3+,Not Graduate,Yes, 13727 ,,198,240,,Urban,Rejected
+A156,Male,Yes,,Graduate,, 11545 ,3724,148,360,,Urban,Approved
+A157,Female,No,0,Not Graduate,Yes, 14031 ,5123,40,240,0,Semiurban,Rejected
+A158,Male,Yes,2,Not Graduate,No, 2689 ,7700,261,300,,Urban,Approved
+A159,Female,Yes,,Not Graduate,Yes, 11136 ,0,228,,,Semiurban,Approved
+A160,Male,No,2,Graduate,Yes, 12142 ,0,126,180,0,Semiurban,Approved
+A161,Male,Yes,2,Not Graduate,No, 11351 ,0,245,300,,Semiurban,Approved
+A162,Female,No,,Not Graduate,Yes, 12022 ,0,375,,,Semiurban,Approved
+A163,Male,Yes,3+,Graduate,Yes, 3435 ,67,174,240,,Rural,Rejected
+A164,Female,No,1,Not Graduate,, 3303 ,0,100,,1,Semiurban,Rejected
+A165,Male,No,1,Not Graduate,Yes, 4473 ,,220,,0,Semiurban,Rejected
+A166,Female,No,,Graduate,, 7077 ,4645,236,360,1,Urban,Approved
+A167,Female,Yes,,Not Graduate,, 2068 ,849,399,,,Urban,Approved
+A168,Female,Yes,,Not Graduate,Yes, 3843 ,0,172,180,1,Semiurban,Approved
+A169,Female,Yes,2,Graduate,, 11863 ,0,224,240,1,Urban,Rejected
+A170,Female,No,,Not Graduate,, 8252 ,3348,176,240,,Rural,Approved
+A171,Male,No,0,Not Graduate,Yes, 10964 ,2404,237,180,,Semiurban,Approved
+A172,Male,Yes,3+,Graduate,, 5382 ,1035,342,240,,Semiurban,Approved
+A173,Female,No,1,Graduate,Yes, 6266 ,7678,65,300,1,Rural,Rejected
+A174,Female,Yes,2,Graduate,No, 8065 ,0,214,360,,Urban,Rejected
+A175,Female,No,,Graduate,No, 10659 ,0,198,300,,Rural,Rejected
+A176,Female,No,0,Graduate,Yes, 6018 ,0,141,180,1,Semiurban,Approved
+A177,Female,Yes,0,Graduate,Yes, 13908 ,885,110,360,1,Urban,Rejected
+A178,Male,No,,Graduate,Yes, 10315 ,,331,240,,Rural,Rejected
+A179,Female,No,,Graduate,Yes, 13129 ,,179,,1,Rural,Approved
+A180,Female,No,0,Graduate,Yes, 13417 ,0,159,,,Urban,Approved
+A181,Male,Yes,3+,Not Graduate,, 4976 ,0,139,240,,Semiurban,Approved
+A182,Female,No,0,Graduate,Yes, 9465 ,1649,123,360,,Rural,Approved
+A183,Male,Yes,1,Not Graduate,, 5355 ,,305,,,Urban,Approved
+A184,Male,Yes,0,Graduate,, 2413 ,0,329,360,0,Semiurban,Rejected
+A185,Female,Yes,,Not Graduate,, 13337 ,2644,97,180,,Semiurban,Rejected
+A186,Female,Yes,3+,Graduate,, 13416 ,0,75,180,0,Urban,Rejected
+A187,Male,No,,Not Graduate,Yes, 4453 ,3255,391,180,0,Semiurban,Rejected
+A188,Female,No,3+,Graduate,No, 14459 ,2223,389,240,0,Semiurban,Rejected
+A189,Female,No,,Graduate,No, 11597 ,0,171,360,0,Semiurban,Rejected
+A190,Male,Yes,1,Not Graduate,No, 4469 ,5256,54,180,0,Urban,Approved
+A191,Male,Yes,1,Not Graduate,Yes, 5094 ,1115,217,,,Urban,Rejected
+A192,Male,Yes,0,Graduate,No, 2589 ,0,205,360,0,Rural,Approved
+A193,Female,No,0,Graduate,, 5015 ,0,303,240,,Rural,Rejected
+A194,Female,Yes,,Not Graduate,, 7616 ,5569,382,180,,Rural,Approved
+A195,Male,Yes,,Not Graduate,, 5485 ,0,143,,,Urban,Rejected
+A196,Female,No,,Graduate,, 11270 ,2310,290,180,1,Semiurban,Rejected
+A197,Female,Yes,,Not Graduate,, 14952 ,,95,360,,Semiurban,Rejected
+A198,Male,Yes,,Graduate,, 8578 ,0,316,360,0,Urban,Approved
+A199,Female,No,,Not Graduate,, 10604 ,2267,101,360,1,Semiurban,Approved
+A200,Male,No,3+,Graduate,, 6024 ,5151,216,300,,Urban,Approved
+A201,Female,Yes,0,Graduate,No, 11258 ,3538,389,,0,Urban,Approved
+A202,Female,Yes,2,Graduate,, 5152 ,319,233,360,1,Urban,Approved
+A203,Female,No,0,Graduate,Yes, 7638 ,2997,329,240,,Urban,Approved
+A204,Female,No,3+,Graduate,, 5376 ,0,201,,1,Urban,Rejected
+A205,Male,No,3+,Graduate,No, 14607 ,0,61,,,Urban,Approved
+A206,Male,Yes,0,Not Graduate,Yes, 10895 ,1532,86,,,Semiurban,Rejected
+A207,Male,Yes,0,Not Graduate,, 7071 ,821,55,,0,Semiurban,Approved
+A208,Male,No,2,Graduate,No, 8895 ,553,212,240,,Rural,Rejected
+A209,Male,No,0,Graduate,, 2793 ,7992,193,300,1,Rural,Rejected
+A210,Male,Yes,,Not Graduate,, 2143 ,3893,91,,0,Urban,Approved
+A211,Female,No,2,Graduate,Yes, 2742 ,0,272,360,,Urban,Rejected
+A212,Female,Yes,1,Graduate,Yes, 13019 ,7335,109,360,,Semiurban,Rejected
+A213,Female,Yes,,Not Graduate,, 12780 ,7672,372,300,1,Rural,Approved
+A214,Female,Yes,,Graduate,No, 6393 ,0,209,180,1,Rural,Approved
+A215,Female,No,1,Graduate,No, 11499 ,6278,59,300,,Urban,Rejected
+A216,Male,No,,Not Graduate,, 3355 ,3357,372,240,,Rural,Rejected
+A217,Female,Yes,0,Not Graduate,No, 13340 ,733,195,,0,Rural,Rejected
+A218,Female,No,1,Graduate,, 8341 ,0,101,,0,Urban,Rejected
+A219,Male,No,1,Not Graduate,, 14286 ,6990,169,360,1,Semiurban,Approved
+A220,Female,No,,Not Graduate,Yes, 6632 ,,309,360,0,Semiurban,Rejected
+A221,Male,No,,Not Graduate,Yes, 5680 ,3719,282,300,0,Rural,Rejected
+A222,Male,No,3+,Graduate,No, 10720 ,0,58,300,,Urban,Rejected
+A223,Female,No,,Graduate,, 12819 ,1406,342,,,Rural,Approved
+A224,Female,Yes,3+,Not Graduate,Yes, 5564 ,2812,201,,0,Urban,Rejected
+A225,Female,Yes,1,Not Graduate,, 14690 ,0,242,240,,Rural,Approved
+A226,Male,Yes,,Graduate,, 12703 ,0,182,,0,Semiurban,Rejected
+A227,Male,Yes,3+,Not Graduate,, 3737 ,6045,210,,,Semiurban,Approved
+A228,Male,No,,Not Graduate,, 11328 ,0,237,,,Rural,Rejected
+A229,Female,Yes,,Not Graduate,No, 7317 ,0,187,240,,Urban,Rejected
+A230,Male,No,1,Graduate,Yes, 9584 ,1452,60,300,0,Rural,Approved
+A231,Male,Yes,1,Not Graduate,No, 13197 ,0,199,240,1,Semiurban,Rejected
+A232,Female,Yes,0,Graduate,Yes, 2166 ,0,203,360,0,Rural,Approved
+A233,Female,No,,Not Graduate,No, 6641 ,2758,89,300,,Urban,Rejected
+A234,Male,Yes,2,Graduate,Yes, 13065 ,0,296,300,0,Urban,Approved
+A235,Male,No,1,Graduate,Yes, 5044 ,4783,237,180,,Semiurban,Rejected
+A236,Female,No,1,Graduate,, 12870 ,2436,368,300,1,Semiurban,Approved
+A237,Female,Yes,1,Graduate,No, 9640 ,0,286,240,1,Rural,Approved
+A238,Female,No,0,Not Graduate,, 9699 ,3727,181,360,0,Rural,Approved
+A239,Female,No,2,Not Graduate,Yes, 12451 ,4981,256,300,,Rural,Approved
+A240,Female,Yes,0,Not Graduate,, 4890 ,0,206,,,Rural,Rejected
+A241,Female,Yes,,Graduate,Yes, 6523 ,0,51,360,1,Rural,Rejected
+A242,Female,Yes,3+,Not Graduate,No, 7548 ,3931,108,360,,Urban,Approved
+A243,Female,Yes,0,Graduate,No, 14912 ,2764,263,240,,Rural,Rejected
+A244,Male,Yes,3+,Not Graduate,Yes, 8813 ,0,67,,1,Rural,Approved
+A245,Male,Yes,2,Graduate,, 4067 ,0,116,300,1,Semiurban,Rejected
+A246,Male,No,0,Graduate,No, 3601 ,3041,37,360,0,Semiurban,Rejected
+A247,Female,Yes,2,Graduate,No, 4301 ,2231,256,180,,Rural,Approved
+A248,Male,Yes,1,Not Graduate,, 3429 ,0,245,300,,Urban,Approved
+A249,Female,No,0,Graduate,No, 14976 ,0,83,,1,Rural,Rejected
+A250,Male,No,1,Graduate,No, 4150 ,3970,291,300,,Rural,Rejected
+A251,Male,No,2,Not Graduate,Yes, 3886 ,6555,181,240,,Semiurban,Rejected
+A252,Male,Yes,0,Graduate,Yes, 4681 ,829,103,180,0,Rural,Approved
+A253,Male,No,0,Not Graduate,Yes, 14114 ,0,90,300,0,Semiurban,Rejected
+A254,Female,Yes,,Graduate,, 11814 ,0,33,360,0,Semiurban,Approved
+A255,Male,No,3+,Graduate,Yes, 3621 ,0,394,360,1,Urban,Rejected
+A256,Male,No,2,Graduate,Yes, 13752 ,,341,360,,Urban,Approved
+A257,Male,Yes,,Not Graduate,, 11276 ,0,193,240,,Rural,Rejected
+A258,Female,No,,Graduate,No, 14464 ,0,363,,1,Rural,Approved
+A259,Male,Yes,1,Not Graduate,Yes, 13556 ,4238,133,180,0,Semiurban,Approved
+A260,Male,Yes,,Not Graduate,No, 2088 ,5356,134,240,1,Urban,Rejected
+A261,Male,No,,Not Graduate,, 14072 ,3635,76,360,1,Semiurban,Rejected
+A262,Female,Yes,1,Not Graduate,No, 5877 ,518,259,,,Semiurban,Approved
+A263,Female,Yes,2,Not Graduate,No, 10049 ,0,399,360,,Urban,Rejected
+A264,Male,No,2,Not Graduate,, 6734 ,789,364,,1,Rural,Rejected
+A265,Male,No,3+,Graduate,No, 5480 ,803,222,180,1,Semiurban,Approved
+A266,Male,Yes,0,Graduate,, 8440 ,0,280,,0,Semiurban,Rejected
+A267,Male,No,2,Not Graduate,Yes, 7791 ,4137,219,,,Semiurban,Approved
+A268,Female,Yes,2,Graduate,, 12332 ,4546,103,240,,Semiurban,Rejected
+A269,Male,No,,Not Graduate,No, 4122 ,4816,133,360,,Rural,Approved
+A270,Male,No,0,Not Graduate,Yes, 7988 ,0,153,300,,Semiurban,Rejected
+A271,Male,No,1,Graduate,No, 13442 ,941,52,,,Semiurban,Rejected
+A272,Male,No,0,Graduate,, 1653 ,0,159,360,,Rural,Rejected
+A273,Male,Yes,3+,Graduate,, 8111 ,1026,194,240,1,Urban,Approved
+A274,Male,Yes,,Graduate,No, 13588 ,3542,302,360,1,Rural,Rejected
+A275,Female,Yes,2,Graduate,Yes, 4015 ,0,110,,,Semiurban,Rejected
+A276,Male,No,0,Not Graduate,, 11561 ,0,304,180,,Urban,Approved
+A277,Female,Yes,2,Graduate,Yes, 13871 ,4039,377,,0,Rural,Approved
+A278,Male,No,3+,Not Graduate,, 13543 ,0,64,360,,Rural,Rejected
+A279,Male,No,,Not Graduate,, 2520 ,1369,362,180,,Semiurban,Approved
+A280,Female,Yes,0,Graduate,, 12052 ,0,45,240,,Urban,Rejected
+A281,Male,Yes,2,Graduate,No, 1821 ,3660,46,240,0,Rural,Approved
+A282,Male,No,3+,Graduate,Yes, 8539 ,3683,48,300,,Urban,Rejected
+A283,Female,Yes,2,Not Graduate,, 2305 ,5514,396,360,1,Rural,Rejected
+A284,Male,Yes,,Graduate,Yes, 12850 ,2242,390,300,1,Semiurban,Approved
+A285,Female,Yes,2,Not Graduate,No, 3718 ,0,55,300,,Semiurban,Rejected
+A286,Male,Yes,0,Not Graduate,Yes, 1520 ,,289,180,,Rural,Rejected
+A287,Female,Yes,0,Graduate,No, 5407 ,0,30,300,0,Urban,Rejected
+A288,Male,No,3+,Graduate,, 14852 ,4486,306,180,0,Urban,Approved
+A289,Female,Yes,,Not Graduate,Yes, 6653 ,0,233,300,0,Rural,Approved
+A290,Male,Yes,,Graduate,Yes, 2163 ,4248,97,300,1,Urban,Approved
+A291,Male,Yes,2,Not Graduate,, 13006 ,4500,259,,1,Rural,Approved
+A292,Male,No,1,Not Graduate,, 3409 ,1657,281,,,Urban,Rejected
+A293,Female,Yes,1,Graduate,Yes, 10104 ,7225,226,240,,Urban,Approved
+A294,Male,Yes,,Not Graduate,No, 14719 ,0,140,300,1,Urban,Rejected
+A295,Female,No,2,Not Graduate,No, 12895 ,0,281,240,1,Rural,Rejected
+A296,Female,No,2,Not Graduate,Yes, 10868 ,6033,311,360,1,Semiurban,Rejected
+A297,Male,No,0,Graduate,, 12506 ,0,135,,,Semiurban,Approved
+A298,Female,Yes,0,Graduate,Yes, 3683 ,7243,295,300,,Urban,Rejected
+A299,Female,Yes,2,Graduate,, 11559 ,0,220,240,,Rural,Rejected
+A300,Male,Yes,,Graduate,, 14583 ,7563,77,300,1,Urban,Approved
+A301,Female,Yes,3+,Not Graduate,Yes, 9427 ,0,47,300,1,Rural,Rejected
+A302,Male,No,1,Graduate,, 6831 ,6947,341,300,0,Semiurban,Approved
+A303,Male,No,2,Graduate,No, 6505 ,770,279,360,1,Rural,Rejected
+A304,Male,Yes,1,Graduate,, 12302 ,0,73,,0,Semiurban,Rejected
+A305,Male,No,,Graduate,Yes, 10044 ,,53,,1,Urban,Approved
+A306,Male,Yes,2,Not Graduate,, 9413 ,0,320,360,,Urban,Approved
+A307,Female,Yes,2,Not Graduate,Yes, 13515 ,0,285,360,,Rural,Approved
+A308,Male,No,3+,Not Graduate,No, 14991 ,5327,65,240,1,Semiurban,Rejected
+A309,Female,No,2,Graduate,Yes, 2354 ,0,157,300,,Urban,Approved
+A310,Male,No,1,Graduate,Yes, 2668 ,2074,154,240,1,Urban,Approved
+A311,Female,No,2,Not Graduate,Yes, 6051 ,6065,383,300,1,Semiurban,Rejected
+A312,Female,No,0,Not Graduate,No, 2919 ,0,167,300,0,Urban,Approved
+A313,Female,No,1,Not Graduate,, 7499 ,511,238,360,1,Urban,Approved
+A314,Female,Yes,1,Graduate,Yes, 14080 ,4537,185,300,1,Rural,Rejected
+A315,Male,No,1,Graduate,No, 5552 ,6052,241,300,1,Rural,Rejected
+A316,Male,No,1,Not Graduate,No, 9896 ,4259,226,,0,Rural,Approved
+A317,Male,No,0,Not Graduate,, 9864 ,2045,258,300,,Rural,Rejected
+A318,Female,Yes,1,Not Graduate,No, 11301 ,5458,344,240,,Urban,Approved
+A319,Male,No,,Graduate,, 14335 ,6716,251,,,Semiurban,Approved
+A320,Male,No,0,Graduate,, 7130 ,5163,46,,,Urban,Rejected
+A321,Female,No,1,Graduate,, 9809 ,5358,165,,1,Rural,Approved
+A322,Female,No,3+,Not Graduate,Yes, 2929 ,0,176,300,1,Urban,Rejected
+A323,Male,No,,Graduate,No, 11651 ,4146,291,180,,Semiurban,Rejected
+A324,Female,Yes,,Graduate,, 2032 ,,65,360,1,Semiurban,Rejected
+A325,Female,Yes,2,Graduate,, 14440 ,3759,391,300,,Rural,Approved
+A326,Male,Yes,,Graduate,, 5731 ,2551,397,360,0,Rural,Rejected
+A327,Female,Yes,2,Not Graduate,No, 2972 ,0,137,,,Urban,Approved
+A328,Male,Yes,,Graduate,No, 4620 ,5359,309,360,1,Urban,Rejected
+A329,Male,No,1,Not Graduate,Yes, 4012 ,0,34,300,1,Urban,Rejected
+A330,Male,Yes,2,Not Graduate,, 8655 ,0,40,180,,Semiurban,Rejected
+A331,Male,No,3+,Graduate,No, 5222 ,,140,240,0,Urban,Rejected
+A332,Female,No,3+,Not Graduate,No, 2900 ,0,277,180,,Rural,Approved
+A333,Male,Yes,,Not Graduate,No, 9156 ,492,161,,0,Rural,Approved
+A334,Female,No,,Not Graduate,, 7074 ,2949,47,180,,Rural,Approved
+A335,Female,No,,Graduate,Yes, 2451 ,0,158,,1,Rural,Approved
+A336,Male,No,2,Graduate,Yes, 12876 ,0,117,360,0,Urban,Rejected
+A337,Female,Yes,2,Graduate,No, 1789 ,3774,215,240,,Urban,Approved
+A338,Female,Yes,,Not Graduate,Yes, 13542 ,7587,106,,,Semiurban,Approved
+A339,Male,Yes,1,Graduate,, 12695 ,4819,166,360,,Rural,Approved
+A340,Female,Yes,,Graduate,No, 7140 ,857,356,300,,Semiurban,Approved
+A341,Female,No,0,Not Graduate,Yes, 8224 ,6659,338,,0,Rural,Rejected
+A342,Female,No,0,Graduate,, 2587 ,,89,240,0,Semiurban,Rejected
+A343,Female,No,,Not Graduate,, 7727 ,0,325,,0,Semiurban,Rejected
+A344,Female,No,,Graduate,, 2280 ,,93,180,,Urban,Rejected
+A345,Female,No,3+,Graduate,No, 12508 ,0,96,360,,Semiurban,Approved
+A346,Male,Yes,0,Not Graduate,Yes, 14758 ,6728,252,180,1,Semiurban,Rejected
+A347,Male,No,0,Not Graduate,, 14792 ,0,170,180,1,Urban,Approved
+A348,Male,Yes,0,Graduate,No, 10170 ,4886,149,180,0,Rural,Approved
+A349,Female,No,3+,Not Graduate,No, 8849 ,0,220,360,1,Rural,Approved
+A350,Male,Yes,3+,Not Graduate,No, 5240 ,5103,211,360,,Urban,Rejected
+A351,Male,No,1,Graduate,Yes, 3517 ,6174,359,180,0,Urban,Rejected
+A352,Female,Yes,2,Not Graduate,Yes, 4824 ,5555,204,300,,Urban,Rejected
+A353,Female,No,0,Not Graduate,No, 5960 ,0,53,240,,Urban,Approved
+A354,Male,No,,Not Graduate,No, 2250 ,,274,,,Rural,Rejected
+A355,Female,No,,Graduate,, 13669 ,3457,218,360,,Rural,Rejected
+A356,Female,Yes,,Not Graduate,Yes, 12260 ,1028,75,240,0,Urban,Rejected
+A357,Male,Yes,0,Not Graduate,, 10581 ,2510,258,180,1,Rural,Approved
+A358,Male,No,,Not Graduate,Yes, 5651 ,0,104,,1,Semiurban,Approved
+A359,Female,Yes,0,Not Graduate,No, 8692 ,,220,180,0,Urban,Rejected
+A360,Male,No,2,Not Graduate,, 11466 ,3659,216,,,Rural,Approved
+A361,Male,Yes,,Graduate,Yes, 12001 ,0,280,180,,Urban,Approved
+A362,Female,Yes,,Graduate,Yes, 3929 ,0,302,300,,Urban,Rejected
+A363,Female,No,3+,Not Graduate,Yes, 9226 ,0,363,240,,Rural,Approved
+A364,Male,No,0,Not Graduate,, 7987 ,0,146,360,,Urban,Approved
+A365,Female,No,,Graduate,Yes, 14044 ,1811,201,300,,Urban,Rejected
+A366,Male,Yes,,Not Graduate,No, 6514 ,1804,58,240,,Rural,Approved
+A367,Male,Yes,0,Graduate,Yes, 6979 ,0,284,240,1,Semiurban,Approved
+A368,Male,Yes,0,Graduate,, 5613 ,0,358,360,0,Semiurban,Approved
+A369,Male,No,,Not Graduate,Yes, 7728 ,0,47,360,1,Rural,Rejected
+A370,Male,Yes,,Not Graduate,, 12322 ,0,219,300,,Urban,Rejected
+A371,Female,Yes,,Not Graduate,, 5585 ,0,275,180,1,Semiurban,Rejected
+A372,Male,Yes,,Graduate,Yes, 12455 ,0,137,240,0,Urban,Approved
+A373,Male,Yes,0,Graduate,No, 3908 ,0,159,360,,Urban,Rejected
+A374,Male,No,3+,Graduate,, 10302 ,,379,360,0,Urban,Approved
+A375,Male,No,2,Not Graduate,, 3350 ,4827,244,300,0,Urban,Approved
+A376,Female,Yes,,Graduate,Yes, 2303 ,1523,77,360,0,Urban,Rejected
+A377,Male,Yes,2,Not Graduate,No, 6462 ,408,42,180,0,Urban,Rejected
+A378,Female,Yes,0,Graduate,, 4132 ,746,322,300,,Semiurban,Approved
+A379,Male,No,2,Not Graduate,, 2605 ,6643,275,,,Semiurban,Rejected
+A380,Male,Yes,,Not Graduate,, 2208 ,0,346,,0,Semiurban,Approved
+A381,Male,Yes,,Graduate,No, 7634 ,7833,149,180,0,Urban,Approved
+A382,Female,No,,Graduate,No, 9513 ,4962,257,360,1,Rural,Approved
+A383,Male,Yes,,Not Graduate,, 6772 ,101,313,360,,Urban,Approved
+A384,Male,No,3+,Graduate,, 7974 ,3131,110,180,,Semiurban,Rejected
+A385,Male,Yes,,Graduate,, 8286 ,0,132,300,1,Semiurban,Rejected
+A386,Male,No,3+,Not Graduate,Yes, 7680 ,1674,135,300,,Rural,Rejected
+A387,Female,No,,Graduate,, 3069 ,2854,76,,,Rural,Approved
+A388,Male,No,3+,Graduate,, 4991 ,7034,240,180,,Rural,Rejected
+A389,Male,No,2,Not Graduate,Yes, 4491 ,0,195,,0,Rural,Rejected
+A390,Female,No,0,Not Graduate,No, 11398 ,259,374,180,0,Urban,Rejected
+A391,Male,Yes,1,Not Graduate,, 12426 ,1956,244,240,1,Rural,Approved
+A392,Female,No,0,Graduate,No, 5094 ,3513,108,240,,Urban,Rejected
+A393,Male,Yes,2,Not Graduate,No, 4081 ,3204,86,180,,Urban,Rejected
+A394,Male,Yes,3+,Not Graduate,, 7383 ,0,383,,0,Rural,Approved
+A395,Male,No,,Graduate,Yes, 4472 ,6961,69,300,1,Urban,Rejected
+A396,Female,Yes,1,Graduate,, 7537 ,0,202,,1,Rural,Rejected
+A397,Female,Yes,3+,Graduate,, 9613 ,6989,351,240,,Urban,Rejected
+A398,Male,Yes,,Graduate,Yes, 2561 ,156,278,180,1,Semiurban,Approved
+A399,Female,Yes,,Not Graduate,, 1696 ,0,283,300,1,Semiurban,Approved
+A400,Female,No,2,Not Graduate,Yes, 3402 ,3528,230,240,1,Semiurban,Rejected
+A401,Male,Yes,1,Not Graduate,No, 6965 ,1891,252,,1,Rural,Approved
+A402,Female,No,3+,Graduate,No, 6525 ,6608,400,180,0,Urban,Approved
+A403,Female,No,1,Graduate,, 2984 ,,192,180,1,Rural,Approved
+A404,Female,No,0,Not Graduate,Yes, 7648 ,7950,311,,1,Rural,Rejected
+A405,Male,No,0,Not Graduate,No, 14417 ,0,187,300,0,Urban,Rejected
+A406,Male,No,3+,Graduate,, 14047 ,1226,39,360,0,Rural,Approved
+A407,Male,No,,Graduate,Yes, 8479 ,0,115,300,,Rural,Rejected
+A408,Female,Yes,,Not Graduate,Yes, 4992 ,0,277,,0,Semiurban,Approved
+A409,Male,No,3+,Graduate,No, 13874 ,6946,343,,,Rural,Approved
+A410,Male,No,2,Not Graduate,Yes, 11958 ,0,245,180,,Urban,Rejected
+A411,Female,Yes,1,Not Graduate,No, 14500 ,1358,396,300,,Semiurban,Rejected
+A412,Male,No,3+,Graduate,, 4419 ,231,118,240,0,Rural,Rejected
+A413,Male,No,1,Not Graduate,, 2717 ,0,373,180,,Urban,Approved
+A414,Female,Yes,2,Graduate,, 4189 ,4596,220,300,,Semiurban,Rejected
+A415,Female,No,0,Graduate,No, 5145 ,0,224,240,0,Rural,Rejected
+A416,Female,Yes,3+,Not Graduate,No, 6732 ,191,365,180,0,Semiurban,Approved
+A417,Male,No,0,Graduate,Yes, 12454 ,7037,290,360,0,Rural,Rejected
+A418,Male,Yes,3+,Graduate,, 3007 ,0,57,240,0,Semiurban,Rejected
+A419,Male,No,,Not Graduate,Yes, 3769 ,0,184,,,Rural,Rejected
+A420,Female,Yes,2,Graduate,Yes, 5913 ,0,134,,,Semiurban,Rejected
+A421,Female,Yes,1,Graduate,No, 4076 ,54,396,180,0,Urban,Approved
+A422,Female,Yes,2,Graduate,Yes, 10055 ,1439,350,360,1,Urban,Approved
+A423,Male,No,0,Not Graduate,, 8046 ,0,78,240,,Rural,Approved
+A424,Male,No,1,Not Graduate,, 12865 ,7001,191,180,0,Rural,Rejected
+A425,Female,No,3+,Not Graduate,Yes, 8355 ,5072,334,240,1,Rural,Approved
+A426,Male,No,0,Graduate,Yes, 6052 ,0,327,300,,Urban,Rejected
+A427,Female,No,3+,Not Graduate,, 5652 ,0,199,300,,Rural,Approved
+A428,Female,Yes,1,Not Graduate,No, 9150 ,778,148,240,0,Urban,Rejected
+A429,Female,Yes,,Not Graduate,, 12987 ,6225,391,360,0,Urban,Rejected
+A430,Male,Yes,0,Graduate,Yes, 14282 ,73,177,300,0,Rural,Approved
+A431,Female,Yes,2,Not Graduate,, 10300 ,0,229,360,,Rural,Approved
+A432,Male,No,2,Not Graduate,Yes, 9475 ,2639,365,300,1,Urban,Approved
+A433,Male,Yes,2,Graduate,, 2268 ,0,148,240,0,Semiurban,Rejected
+A434,Male,Yes,1,Not Graduate,No, 12555 ,,64,,1,Urban,Approved
+A435,Female,No,0,Not Graduate,, 8251 ,4060,344,300,,Urban,Approved
